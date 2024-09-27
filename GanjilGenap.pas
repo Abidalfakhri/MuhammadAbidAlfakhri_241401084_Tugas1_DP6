@@ -7,7 +7,7 @@ a:integer;
 begin
 clrscr;
 
-writeln('masukan nilai a '); 
+writeln('masukan bilangan '); 
 readln(a);
 
 if a mod 2 = 0 then
