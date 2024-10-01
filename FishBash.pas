@@ -22,4 +22,8 @@ else if a mod 5 = 0 then
     begin
     writeln('Bash');
     end
+else 
+    begin
+    writeln(a);
+    end
 end.
